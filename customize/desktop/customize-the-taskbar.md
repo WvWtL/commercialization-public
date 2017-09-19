@@ -17,7 +17,7 @@ ms.technology: windows-oem
 
 You can pin up to three additional apps to the taskbar. There are two methods to do this:
 
--   **Taskar Layout Modification XML** method (recommended)
+-   **Taskbar Layout Modification XML** method (recommended)
     -   Supports multivariant images; you can specify different sets of taskbar layouts for different regions.
     -   Uses a single XML file.
     -   Is the only method that allows you to add UWP apps to the taskbar.
